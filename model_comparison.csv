@@ -1,0 +1,6 @@
+model,micro_f1,macro_f1
+TEXT   (BR + SVM),0.75,0.745
+CITE   (BR + SVM),0.678,0.668
+CITE   (BC-kNN k=20),0.752,0.75
+HYBRID (concatenation),0.758,0.753
+HYBRID (score-level),0.779,0.778

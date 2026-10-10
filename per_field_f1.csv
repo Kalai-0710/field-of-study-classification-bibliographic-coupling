@@ -1,0 +1,11 @@
+field,test_papers,text,citation,hybrid
+Biotechnology,205,0.861,0.806,0.876
+Chemistry,340,0.817,0.821,0.831
+CS_AI,224,0.662,0.713,0.731
+CS_InfoSystems,196,0.575,0.646,0.632
+Engineering_EE,291,0.684,0.692,0.73
+Environmental,193,0.789,0.738,0.799
+MaterialsScience,283,0.786,0.786,0.805
+Mathematics,183,0.784,0.755,0.805
+Physics_Applied,212,0.622,0.668,0.679
+Psychology,203,0.874,0.878,0.889

@@ -1,0 +1,5 @@
+group,papers,percent
+both correct,717,43.7
+both wrong,500,30.5
+"text right, cite wrong",238,14.5
+"CITE right, text wrong",184,11.2
